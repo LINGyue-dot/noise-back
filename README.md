@@ -77,7 +77,7 @@ history.back = function(fallback){
 3. 每触发 `popstate` 事件时候，获取到新页面的 url ，与当前指针指向前一个以及后一个进行对比，如果与前一个相等那么就是后退，如果与前一相等那么就是前进
 
 具体代码见 https://github.com/LINGyue-dot/noise-back
-
+在线 demo 见 https://codesandbox.io/s/clever-marco-s9rgzo?file=/index.js
 
 
 ## 拦截住前进/后退按钮
